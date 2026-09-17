@@ -9,7 +9,7 @@ splits: config/R4YJ2M/splits.txt
 mw_comment_version: 11
 
 modules:
-#- object: files/module.rel
+- object: files/module.rel
   hash: 1f12afef9da8c3fb53c25f99552f429c6eedb87f
   symbols: config/R4YJ2M/module/symbols.txt
   splits: config/R4YJ2M/module/splits.txt
