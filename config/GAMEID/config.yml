@@ -1,15 +1,15 @@
 # See config.example.yml for documentation.
-object_base: orig/GAMEID
+object_base: orig/R4YJ2M
 object: sys/main.dol
-hash: 0123456789abcdef0123456789abcdef01234567
-symbols: config/GAMEID/symbols.txt
-splits: config/GAMEID/splits.txt
+hash: 1f12afef9da8c3fb53c25f99552f429c6eedb87f
+symbols: config/R4YJ2M/symbols.txt
+splits: config/R4YJ2M/splits.txt
 # Change this to match the linker version.
 # See config.example.yml for a list.
 mw_comment_version: 11
 
 modules:
-- object: files/module.rel
-  hash: 0123456789abcdef0123456789abcdef01234567
-  symbols: config/GAMEID/module/symbols.txt
-  splits: config/GAMEID/module/splits.txt
+#- object: files/module.rel
+  hash: 1f12afef9da8c3fb53c25f99552f429c6eedb87f
+  symbols: config/R4YJ2M/module/symbols.txt
+  splits: config/R4YJ2M/module/splits.txt
