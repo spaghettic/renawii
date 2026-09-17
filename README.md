@@ -1,5 +1,10 @@
-decomp-toolkit Project Template
+Sukeban Shachou Rena Wii: Neko Shachou, Tsukaeru Shain Daiboshuu.
 ===============================
+
+Hashes should be these when done (when we reach 100%, human made please)
+md5: dff39acba539807f16114865852e689a
+sha1: 1f12afef9da8c3fb53c25f99552f429c6eedb87f
+Unsure if absoulutely correct, but i'm not getting the special disk drive and spending 1000 dollars for a copy
 
 If starting a new GameCube / Wii decompilation project, this repository can be used as a scaffold.
 
@@ -22,7 +27,7 @@ General:
 References
 --------
 
-- [Discord: GC/Wii Decompilation](https://discord.gg/hKx3FJJgrV) (Come to `#dtk` for help!)
+- [Discord: GC/Wii Decompilation](https://discord.gg/hKx3FJJgrV) (Come to `#dtk` for help!) ;I can't use discord, my account broke
 - [objdiff](https://github.com/encounter/objdiff) (Local diffing tool)
 - [decomp.me](https://decomp.me) (Collaborate on matches)
 - [decomp.dev](https://decomp.dev) (Decompilation progress hub and API)
